@@ -1,4 +1,4 @@
-# depressedbutsober
+# DepressedButSober
 
 ## About
 
