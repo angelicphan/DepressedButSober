@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Depressing Truth",
+    "prompt": "Everyone disappoints you.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your parents think you're ugly. +1 if they argue with each other about who you take after.",
+    "sips": 1
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share the most awkward social gathering you've been to, where you may or may not have been the social outcast. Social outcast doesn't drink.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've once had the runs at an inopportune time.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Between you and your SO, you think one of you settled.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You recently tripped and fell embarrassingly in front of some random people.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've accidentally sabotaged someone else's life. +1 if it wasn't an accident you evil son of a gun.",
+    "sips": 4
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share the most brutally honest thing someone has ever told them. Most pathetically sad person doesn't drink.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Everyone you know has a better job than you.",
+    "sips": 3
+  },
+  {
+    "type": "Make It Up",
+    "prompt": "Make up your own depressing line or story.",
+    "sips": 0
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "No one believes anything you say. No one trusts you.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "No one listens to you. You constantly get ignored.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "People at school, work, or home don't take you seriously and treat you like you're less than them.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "People tell you that you stink or that you have bad breath.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You keep killing all of your house plants. It's pretty sad.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "This is a family gathering and it's awkward as fuck.",
+    "sips": 3
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share the worst customer service experience they've had. Worst experience doesn't drink.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "This is a work party and your boss is sitting right next to you.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "When little kids look at you, they get scared.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "When your friends and family tries to hook you up with someone because they pity you, or because they just want to get in your business.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Peple frequently get your name wrong.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "This isn't what you thought your life would be.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're really broke right now. Send help.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You can't sleep at night.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You celebrate your birthdays alone.",
+    "sips": 1
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share a time when they couldn't make it to the bathroom in time. The saddest moment doesn't get to drink.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You cry yourself to sleep at night.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You disappoint yourself.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You don't have a job.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You don't have anyone to seriously share your problems with.",
+    "sips": 5
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share a time when someone you were with did something that embarrassed you. Most embarrassed person doesn't drink. +1 if you pretended not to know them.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You don't know what to do in life.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You don't trust anyone.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You expect too much from yourself.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You feel as if you have to wear a mask all the time, and pretend that you're someone you aren't, or that you're happier than you really are.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You feel as if you're a fake.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You feel as if, no matter how hard you've tried, it's just not enough. Honestly though, keep trying man. Don't let life win.",
+    "sips": 5
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share their worst family gathering experience ever. Worst experience doesn't drink.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You feel inadequate compared to everyone else.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You get anxiety just walking out of the house.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You get anxiety talking to other people.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You hate people. Period.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You hate your boss.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You hate your job.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You hate yourself.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You alone have at least 3 cats. Hopefully they don't ignore you like everyone else.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You have a deep, dark, secret that you can't tell anyone or else it will majorly fuck up your life.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You have a lot of friends, but let's be honest. You can't rely on any of them for shit. Everyone is a fucking disappointment. The whole lot.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You have an STD.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You have debt.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You have never been in a relationship. AKA, single since birth...",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You have no friends.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You just flunked out of college, high school, or life.",
+    "sips": 3
+  },
+  {
+    "type": "Make It Up",
+    "prompt": "Make up your own depressing line or story.",
+    "sips": 0
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You just lost a lot of money gambling or investing.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You just want to run away from everything.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You look 12. Actual 12 year olds look better than you.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You only have one friend.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You recently broke up or got divorced.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You recently farted in a quiet room full of people.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You recently threw up in front of a lot of important people.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You screwed up on a school or work project.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You secretly hate all of your coworkers.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You secretly hate your best friend.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You swear someone's out to get you.",
+    "sips": 3
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share their worst pickup experience, whether you were being hit on or were hitting on someone else. Worst experience doesn't drink.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You think you chose the wrong major or career path.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You think you're ugly.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You want to move out of your parents place, but you can't because you're too poor.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You were forced to play this game.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You were out of the closet, but went back in at some point.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You were supposed to confess to someone but chickened out at the last second.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Sometimes, you wish you were never born. I hope you're doing better.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're an alcoholic. Please leave this game.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're family expects too much from you.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're getting paid less than you deserve.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've just been kicked out of your parent's house.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're in a one sided crush.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're lonely as fuck. So lonely...",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your peers often ignore you at school or work.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Somebody keeps stealing your lunch, and you haven't found that motherfucker yet.",
+    "sips": 2
+  },
+  {
+    "type": "Make It Up",
+    "prompt": "Make up your own depressing line or story.",
+    "sips": 0
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're pregnant. You might be happy, but it's not gonna be an easy 9 months. Why are you playing this game? No drinking for you.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're secretly in love with someone you can't have.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're socially awkward.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're still sober. I guess you're the designated driver.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're the black sheep of the family.",
+    "sips": 1
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share a time where they got into an 'at the wrong place at the wrong time' kind of situation.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're the friend who always gets stuck with the tab.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "People think your SO could've done better. +1 if they get surprised when they find out who you're dating or is married to.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're either going bald or that receding hairline is starting to make your forehead look big.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You thought you had a nice thing going with someone, but they suddenly ghosted you and you don't know why.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're the only one without a SO or not married.",
+    "sips": 1
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share your most failed love confession. Worst confessor doesn't drink.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You're treated differently because of your age, gender, sexuality, religion, ethnicity, skin color, health, etc.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've accidentally screwed up a relationship with someone, and now you don't know how to say sorry and get them back.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've been scammed.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've been screwed over by a friend.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've done the walk of shame.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've just been rejected from a job. Or maybe a lot of jobs.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've switched majors or careers one too many times.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your ex is here.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your family has disowned you.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your friends or family pretend to not know you in public.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your family thinks you're an idiot.",
+    "sips": 2
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your mom is your only friend.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your parents don't even know how old you are.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your SO cheated on you.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your tinder date never showed up.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Your tinder profile is a picture of someone else.",
+    "sips": 5
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share your worst date. Worst date doesn't drink.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You recently told a joke and nobody laughed.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Someone recently forced you to work out, but you just want to be a couch potato.",
+    "sips": 3
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "Aunt Flo just paid you a visit, and she a bitch.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You've accidentally walked out of the store with something without paying. +1 if it wasn't an accident.",
+    "sips": 1
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You have a lot of hair and it's not the good kind. Too much hair. Everywhere. You a hairy beast.",
+    "sips": 1
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share the most disgusting and grossest thing they have ever been forced to eat. The one whose taste buds were most abused doesn't get to drink.",
+    "sips": 5
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You once trashed talked someone behind their back only to find out that they were actually there and heard everything.",
+    "sips": 4
+  },
+  {
+    "type": "Depressing Truth",
+    "prompt": "You once got into a fight. And you lost. Big time. It still bothers you 'till this day.",
+    "sips": 2
+  },
+  {
+    "type": "Story Time",
+    "prompt": "Everyone share a time when they accidentally sent an email or text to the wrong person. Worst accident doesn't drink.",
+    "sips": 3
+  }
+]
